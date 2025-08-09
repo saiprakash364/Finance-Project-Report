@@ -16,3 +16,17 @@ The Finance Report Project is designed to streamline and enhance the process of 
 - Which products generate the highest sales?
 
 - How do profit margins vary by segment and product?
+
+- Dashboard Interaction <a href="https://github.com/saiprakash364/Finance-Project-Report/blob/main/WhatsApp%20Image%202025-08-09%20at%2022.05.50_62c24747.jpg">View Dashboard</a>
+
+## Process
+
+- Imported sales, orders, profit, and discount data into Power BI.
+
+- Cleaned and transformed data for accuracy.
+
+- Created interactive visuals for year-over-year comparisons, country-wise analysis, product performance, and segment profitability.
+
+- Applied DAX measures to calculate growth percentages and margins.
+
+## Dashboard
