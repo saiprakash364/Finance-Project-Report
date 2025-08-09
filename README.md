@@ -25,13 +25,11 @@ The Finance Report Project is designed to streamline and enhance the process of 
 
 - Cleaned and transformed data for accuracy.
 
-## Dashboard
-
-![WhatsApp Image 2025-08-09 at 22 05 50_62c24747](https://github.com/user-attachments/assets/3628a043-4981-46be-9c2b-74b822cf0ace)
-
-
 - Created interactive visuals for year-over-year comparisons, country-wise analysis, product performance, and segment profitability.
 
 - Applied DAX measures to calculate growth percentages and margins.
 
 ## Dashboard
+
+![WhatsApp Image 2025-08-09 at 22 05 50_62c24747](https://github.com/user-attachments/assets/baf5be20-f153-4eb0-ab35-eddd7e793d37)
+
