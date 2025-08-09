@@ -33,3 +33,23 @@ The Finance Report Project is designed to streamline and enhance the process of 
 
 ![WhatsApp Image 2025-08-09 at 22 05 50_62c24747](https://github.com/user-attachments/assets/baf5be20-f153-4eb0-ab35-eddd7e793d37)
 
+## Project Insights
+
+- Sales Growth: 249% increase from last year (₹92.31M vs ₹26.41M).
+
+- Orders Growth: 225% increase from last year (861K vs 264K).
+
+- Profit Growth: 235% increase from last year (₹13.01M vs ₹3.87M).
+
+- Top Countries by Orders: Germany, France, Canada, Mexico, USA.
+
+- Highest Profit Margin Segment: Channel Partners (~73%).
+
+- Top Products by Sales: Paseo, VTT, Velo, Amarilla, Montana, Carretera.
+
+- Discount Trends: Channel Partners receive the highest discount share (73%).
+
+
+ ## Final Conclusion
+FestMan Stores experienced strong growth across all major KPIs, with sales, orders, and profit more than tripling year-over-year. The Channel Partners segment drives the highest margins, while Germany and France are leading markets by order volume. Focusing on top-selling products and high-margin segments while optimizing discount policies could further enhance profitability.
+
